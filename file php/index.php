@@ -10,6 +10,11 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
+    <header>
+        <div id="container">
+            <img src="../image/logo.png" alt="">
+        </div>
+    </header>
     <main>
         <div class="container">
             <?php foreach($database as $data){ ?>
